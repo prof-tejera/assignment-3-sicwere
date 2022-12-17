@@ -46,6 +46,8 @@ We will be grading based on the features listed above and overall code quality
 - Wrap app using react-error-boundary (10pt)
 - DRY and overall code quality (20pt)
 
+ URL: https://prof-tejera.github.io/assignment-3-sicwere/
+
 ### Deployment Instructions (GH actions)
 
 [Deployment instructions](https://github.com/prof-tejera/react-deployment-code#github-actions)
